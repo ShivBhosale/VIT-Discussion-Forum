@@ -1,0 +1,21 @@
+http://quotego.biz/wp-content/uploads/2014/07/quotes-about-living-life-tumblr-hd-cute-inspirational-quotes-about-life-hd-quotes-wallpaper-hd-wallpaper.jpg
+
+
+class='myButton' type='button' value='Vote' onclick=\"upvote('".$row['reply_id']."')\"
+
+
+/FORUM/upvote.php?type=votes&rid=".$row['reply_id']."&cid=".$cid."&scid=".$scid."
+
+
+<script>
+function upvotes($parent)
+{
+	alert ($parent); //worksss...yaya!!
+	
+}
+
+</script>
+
+
+
+, $_GET['type'],$_GET['rid'])

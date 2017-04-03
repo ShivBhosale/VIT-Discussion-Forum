@@ -1,0 +1,12 @@
+1.) http://bs1.imghost.nu/images/1/99467.jpg
+2.) http://www.planwallpaper.com/static/images/cool-wallpapers-hd-8087-8418-hd-wallpapers.jpg
+3.) http://hdimagesnew.com/wp-content/uploads/2015/08/tumblr-hd-wallpapers-large.jpg
+4.) http://www.desktopaper.com/wp-content/uploads/b/awesome-tumblr-momgxjtqbsbpzo.jpg
+5.) http://40.media.tumblr.com/tumblr_loqd9xDyhT1qzv218o1_1280.jpg
+6.) http://wallpapers.hdwallpaperhdpictures.in/plog-content/images/images3/landscape/tumblr-landscape_pictures_hd_wallpapers_nature_backgrounds_tumblr_lm0xuos1nd1qbxpeso1_500_large.jpg
+7.) http://www.google.co.in/url?sa=i&source=imgres&cd=&ved=0CAYQjBwwAGoVChMI_oX01c2WyQIV0huOCh36iA49&url=http%3A%2F%2Fbyntoo.com%2Fwp-content%2Fuploads%2F2015%2F02%2Fwallpapers_for__psychedelic_backgrounds_tumblr.jpg&psig=AFQjCNHM1uOe8PZ3aRUebJibRMqTpqN1Ng&ust=1447820466168525
+8.) http://quotego.biz/wp-content/uploads/2014/07/quotes-about-living-life-tumblr-hd-cute-inspirational-quotes-about-life-hd-quotes-wallpaper-hd-wallpaper.jpg
+
+
+//js and ajax source
+https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js

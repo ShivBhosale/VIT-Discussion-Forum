@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+div.pane
+{
+	width: 1000px;
+	margin: 0px auto;
+}
+
+div.loginpane
+{
+	width: 230px;
+	display: block;
+	position: relative;
+	float: left;
+	padding: 15px;
+}
+
+div.forumdesc
+{
+	width: 700px;
+	display: block;
+	position: relative;
+	float: left;
+	padding: 15px;
+}
+
+div.content
+{
+	background-color: #EFEFEF;
+	margin-top: 15px;
+	width: 970px;
+	display: block;
+	position: relative;
+	float: left;
+	padding: 15px;
+	
+	
+	
+	
+}
+
+div.contentab
+{	
+	position: relative;
+	float:left;	
+}
