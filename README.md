@@ -14,7 +14,7 @@ This will download the Ontology Search Engine Source Code.
 
 ### Prerequisites
 
-What things you need to use the search engine and how to install them
+What things you need to use the forum and how to install them
 
 1) Xampp
 
